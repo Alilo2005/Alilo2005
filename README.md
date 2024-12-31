@@ -1,11 +1,36 @@
-- 👋 Hi, I’m Ali Mahdi
-- 👀 I’m interested in Computer Science in general especially web development and ai.
-- 🌱 I’m currently learning ai, and working in CSE, GDG, SOAI internal projects.
-- 💞️ I’m looking to collaborate on creating open source for everyone.
-- 😄 Pronouns: Alilo
-- ⚡ Fun fact: People often called me mahdi thinking its my real first name.
+### 👋 Hi, I'm Ali Mahdi (Alilo)!
 
-<!---
-Alilo2005/Alilo2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate **Computer Science student** and **web developer** interested in **AI** and **open-source projects**. I believe in learning by doing and love to contribute to meaningful projects. Currently, I'm diving into **Django**, **Django Rest Framework**, and **AI** while building fun web applications and exploring new technologies.
+
+---
+
+### 🚀 Technologies & Tools:
+
+- **Web Development**: HTML, CSS, JavaScript, **Node.js**, **Tailwind CSS**, **Express.js**, **Django**, **Angular**
+- **Databases**: **SQLite**, **PostgreSQL**
+- **AI**: Python, **TensorFlow**, **PyTorch**
+- **DevOps**: Git, GitHub Actions
+- **Design**: **Figma**
+- **Networking**: Mininet, Cisco Packet Tracer
+
+---
+
+### 💻 Current Projects:
+
+- **Movie App**: A web app that helps users explore movies with a sleek UI and a powerful API backend.
+- **AI Chatbot**: A chatbot using NLP techniques, currently improving using deep learning.
+
+---
+
+### 📚 What I'm Learning:
+
+- **Django Rest Framework**: Building REST APIs with Django.
+- **NumPy & Scilab**: Diving deeper into scientific computing.
+- **Tailwind CSS**: Designing modern, responsive websites.
+- **AI & Machine Learning**: Working on projects related to AI, deep learning, and NLP.
+
+---
+
+### 📬 Reach Me:
+
+- **Email**: [Mahdi Ali](ma_mahdi@esi.dz)
