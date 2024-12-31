@@ -6,7 +6,7 @@ I'm a passionate **Computer Science student** and **web developer** interested i
 
 ### 🚀 Technologies & Tools:
 
-- **Web Development**: HTML, CSS, JavaScript, **Node.js**, **Tailwind CSS**, **Express.js**, **Django**, **Angular**
+- **Web Development**: HTML, CSS, JavaScript, **Node.js**, **Tailwind CSS**, **Express.js**, **Django**, **Angular**, **React js**, **Next js**
 - **Databases**: **SQLite**, **PostgreSQL**
 - **AI**: Python, **TensorFlow**, **PyTorch**
 - **DevOps**: Git, GitHub Actions
