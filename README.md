@@ -33,4 +33,4 @@ I'm a passionate **Computer Science student** and **web developer** interested i
 
 ### 📬 Reach Me:
 
-- **Email**: [Mahdi Ali](ma_mahdi@esi.dz)
+- **LinkedIn**: [Mahdi Ali](https://www.linkedin.com/in/mahdi-ali-59b08829b)
