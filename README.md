@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Ali Mahdi (Alilo)!
 
-I'm a passionate **Computer Science student** and **web developer** interested in **AI** and **open-source projects**. I believe in learning by doing and love to contribute to meaningful projects. Currently, I'm diving into **Django**, **Django Rest Framework**, and **AI** while building fun web applications and exploring new technologies.
+I'm a passionate **Computer Science student** and **web developer** interested in **AI** and **open-source projects**, currently i'm studying in **Esi Algiers**.I believe in learning by doing and love to contribute to meaningful projects. Currently, I'm diving into **Django**, **Django Rest Framework**, and **AI** while building fun web applications and exploring new technologies.
 
 ---
 
