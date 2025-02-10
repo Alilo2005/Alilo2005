@@ -18,7 +18,6 @@ I'm a passionate **Computer Science student** and **web developer** interested i
 ### 💻 Current Projects:
 
 - **Movie App**: A web app that helps users explore movies with a sleek UI and a powerful API backend.
-- **AI Chatbot**: A chatbot using NLP techniques, currently improving using deep learning.
 
 ---
 
