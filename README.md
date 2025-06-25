@@ -24,13 +24,6 @@ I believe in learning by doing and love to contribute to meaningful projects and
 
 ---
 
-## 🏆 Achievements
-
-- 🏅 Winner @ [Your Hackathon/Competition Here] *(add if any!)*
-- 🥇 Top Contributor to [Your Favorite Open Source Project]
-- 🏆 300+ hours of Backend & API learning @ FreeCodeCamp
-
----
 
 ## 🛠️ Main Skills
 
