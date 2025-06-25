@@ -24,7 +24,6 @@ I believe in learning by doing and love to contribute to meaningful projects and
 
 ---
 
-
 ## 🛠️ Main Skills
 
 <p align="center">
@@ -65,6 +64,7 @@ I believe in learning by doing and love to contribute to meaningful projects and
 - [Data Structures and Algorithms in JavaScript (FreeCodeCamp)](https://www.freecodecamp.org/certification/Ali_Mahdi/javascript-algorithms-and-data-structures)  
   <sub>300+ hours of JavaScript DSA (August 2023)</sub>
 - [Intermediate SQL (Datacamp)](https://www.datacamp.com/completed/statement-of-accomplishment/course/ca423e67a2cbb87d5e8dabaad0e41785b72d7f90)
+
 ---
 
 ## 🎓 Education
@@ -90,13 +90,17 @@ I believe in learning by doing and love to contribute to meaningful projects and
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alilo2005&show_icons=true&theme=coffee&hide_title=true&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alilo2005&theme=coffee" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alilo2005&layout=compact&theme=coffee" height="160"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alilo2005&show_icons=true&theme=midnight-purple&hide_title=true&count_private=true&border_radius=20&bg_color=60,2c5364,0f2027,203a43&title_color=fff&icon_color=ffb86b&card_width=470" height="170" style="border-radius:20px;margin:4px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alilo2005&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DEG,2c5364,203a43,0f2027&ring=fff&currStreakLabel=fff" height="170" style="border-radius:20px;margin:4px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alilo2005&layout=donut-vertical&theme=midnight-purple&hide_border=true&border_radius=20&bg_color=60,0f2027,2c5364,203a43&title_color=fff&langs_count=8&card_width=470" height="170" style="border-radius:20px;margin:4px;"/>
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Alilo2005&theme=discord&margin-w=8&margin-h=8&column=4&no-frame=true" alt="trophy" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alilo2005&theme=react-dark&radius=18&hide_border=true&area=true" alt="activity graph" style="border-radius:20px;margin:4px;" />
+</div>
 
 ---
 
