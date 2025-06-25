@@ -65,7 +65,6 @@ I believe in learning by doing and love to contribute to meaningful projects and
 - [Data Structures and Algorithms in JavaScript (FreeCodeCamp)](https://www.freecodecamp.org/certification/Ali_Mahdi/javascript-algorithms-and-data-structures)  
   <sub>300+ hours of JavaScript DSA (August 2023)</sub>
 - [Intermediate SQL (Datacamp)](https://www.datacamp.com/completed/statement-of-accomplishment/course/ca423e67a2cbb87d5e8dabaad0e41785b72d7f90)
-  <sub>Experienced with SQL</sub>
 ---
 
 ## 🎓 Education
