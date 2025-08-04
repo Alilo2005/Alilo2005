@@ -118,7 +118,7 @@ I believe in learning by doing and love to contribute to meaningful projects and
 
 ## 📄 Resume
 
-[![Resume](https://img.shields.io/badge/Download-Resume-brightgreen?style=for-the-badge&logo=google-drive)](https://docs.google.com/document/d/17VFrGbotdwOr6415Gual3rwFuQecGy3z/edit?usp=drive_link&ouid=114092860076964475305&rtpof=true&sd=true)
+[![Resume](https://drive.google.com/file/d/1W1FPgbYbySsB5cSo_ex7DG-fcJv7nNbh/view?usp=drive_link)
 
 ---
 
