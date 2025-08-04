@@ -114,14 +114,6 @@ I believe in learning by doing and love to contribute to meaningful projects and
   <img src="https://img.shields.io/badge/Phone-%2B213667622648-blue?style=for-the-badge&logo=phone" />
 </p>
 
----
-
-## 📄 Resume
-
-[![Resume](https://drive.google.com/file/d/1W1FPgbYbySsB5cSo_ex7DG-fcJv7nNbh/view?usp=drive_link)
-
----
-
 ## ⭐ Featured Repositories
 
 Check out my pinned projects and more on my [GitHub profile](https://github.com/Alilo2005)!
