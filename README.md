@@ -19,7 +19,7 @@ I believe in learning by doing and love to contribute to meaningful projects and
 
 - 🌱 Currently learning **Django Rest Framework**, **AI**, and diving deeper into scientific computing.
 - 🔭 Focused on building fun web apps and exploring new technologies.
-- 🛠️ My favorite stack: React | Node.js | Django | Tailwind CSS | PostgreSQL
+- 🛠️ My favorite stack: Next.js | Express.js | Tailwind CSS | MySQL
 - ⚡ Fun fact: I love dark themes, creative UI, and coding with coffee!
 
 ---
@@ -49,14 +49,6 @@ I believe in learning by doing and love to contribute to meaningful projects and
 | HTML, CSS, JS, React, Next.js, Angular, Tailwind CSS | Node.js, Express.js, Django, Django REST | MySQL, SQLite, PostgreSQL | Python, TensorFlow, PyTorch, NumPy, Scilab | Git, GitHub Actions | Figma | Mininet, Cisco Packet Tracer |
 
 ---
-
-## 💼 Experience
-
-- <img src="https://img.icons8.com/color/28/000000/google-logo.png"/> **Web Developer** @ [GDG Algiers](https://gdg.community.dev/gdg-algiers/) *(Sep 2024 – Present)*
-- <img src="https://img.icons8.com/color/28/000000/source-code.png"/> **Web Developer** @ [CSE Algiers](https://cse-esi.dz/) *(Sep 2024 – Present)*
-
----
-
 ## 🏅 Certifications
 
 - [Backend Development and APIs (FreeCodeCamp)](https://www.freecodecamp.org/certification/Ali_Mahdi/back-end-development-and-apis)  
@@ -71,24 +63,6 @@ I believe in learning by doing and love to contribute to meaningful projects and
 
 - 🎓 **Esi Algiers** — *Ingénieur d'État en Informatique* (2022–2027)
 - 🎓 **Lycée Belckacemi-Ahmed** — *Baccalauréat en mathématiques* (2019–2022)
-
----
-
-## 💻 Current Projects
-
-- **🎬 Movie App:**  
-  A slick web application that lets users explore movies with a modern UI and a powerful backend API.
-
----
-
-## 📚 What I'm Learning
-
-- **Django Rest Framework** — Building REST APIs with Django
-- **NumPy & Scilab** — Scientific computing tools
-- **Tailwind CSS** — Crafting beautiful, responsive UIs
-- **AI & Machine Learning** — Deep learning and NLP projects
-
----
 
 ## 📊 GitHub Stats 
 
